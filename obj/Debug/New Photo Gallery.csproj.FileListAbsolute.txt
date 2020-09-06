@@ -1,0 +1,22 @@
+C:\Users\singh\source\repos\New Photo Gallery\bin\Debug\New Photo Gallery.exe.config
+C:\Users\singh\source\repos\New Photo Gallery\bin\Debug\New Photo Gallery.exe
+C:\Users\singh\source\repos\New Photo Gallery\bin\Debug\New Photo Gallery.pdb
+C:\Users\singh\source\repos\New Photo Gallery\bin\Debug\C1.C1Pdf.4.5.2.dll
+C:\Users\singh\source\repos\New Photo Gallery\bin\Debug\C1.C1Zip.4.5.2.dll
+C:\Users\singh\source\repos\New Photo Gallery\bin\Debug\C1.Win.4.5.2.dll
+C:\Users\singh\source\repos\New Photo Gallery\bin\Debug\C1.Win.C1DX.4.5.2.dll
+C:\Users\singh\source\repos\New Photo Gallery\bin\Debug\C1.Win.C1TileControl.4.5.2.dll
+C:\Users\singh\source\repos\New Photo Gallery\bin\Debug\Newtonsoft.Json.dll
+C:\Users\singh\source\repos\New Photo Gallery\bin\Debug\C1.C1Pdf.4.5.2.xml
+C:\Users\singh\source\repos\New Photo Gallery\bin\Debug\C1.C1Zip.4.5.2.xml
+C:\Users\singh\source\repos\New Photo Gallery\bin\Debug\C1.Win.4.5.2.xml
+C:\Users\singh\source\repos\New Photo Gallery\bin\Debug\C1.Win.C1DX.4.5.2.xml
+C:\Users\singh\source\repos\New Photo Gallery\bin\Debug\C1.Win.C1TileControl.4.5.2.xml
+C:\Users\singh\source\repos\New Photo Gallery\bin\Debug\Newtonsoft.Json.xml
+C:\Users\singh\source\repos\New Photo Gallery\obj\Debug\New Photo Gallery.csprojAssemblyReference.cache
+C:\Users\singh\source\repos\New Photo Gallery\obj\Debug\New_Photo_Gallery.Properties.Resources.resources
+C:\Users\singh\source\repos\New Photo Gallery\obj\Debug\New Photo Gallery.csproj.GenerateResource.cache
+C:\Users\singh\source\repos\New Photo Gallery\obj\Debug\New Photo Gallery.csproj.CoreCompileInputs.cache
+C:\Users\singh\source\repos\New Photo Gallery\obj\Debug\New Photo Gallery.csproj.CopyComplete
+C:\Users\singh\source\repos\New Photo Gallery\obj\Debug\New Photo Gallery.exe
+C:\Users\singh\source\repos\New Photo Gallery\obj\Debug\New Photo Gallery.pdb
